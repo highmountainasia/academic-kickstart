@@ -21,4 +21,5 @@ This is the GitHub page for the NASA High Mountain Asia team website.
 
 * [academic](https://pypi.org/project/academic/): Python administrative tool for the Academic website framework
 * to automatically import your references in bibtex format, run: ```academic import --bibtex my_publications.bib content/publication/```
+* the generated page must then be edited so that the new ENUM format under ```publication_types:```,  ```- article-journal``` is replaced with the old identifier ```- '2'```
 

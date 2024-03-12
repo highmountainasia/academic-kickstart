@@ -25,7 +25,7 @@ publishDate: '2024-03-12T21:01:36.360733Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- '2'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Remote Sensing of Environment*'
