@@ -1,6 +1,6 @@
 ---
 title: Mountain Permafrost Extent
-summary: Insights on terrestrial water cycle changes over HMA in the past two decades (2002-2021)
+summary: Quantifying and characterizing uncertainty related to mountain permafrost extent.
 tags:
 - science highlight
 date: "2024-03-12T00:00:00Z"
