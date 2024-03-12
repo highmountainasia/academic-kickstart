@@ -18,7 +18,7 @@ image:
 Traditionally permafrost is defined as any subsurface material (e.g., rock, sediment,
 organics) that remains at or below 0 °C for a minimum of two years. As a massive reservoir
 of carbon, high latitude permafrost has been a key research topic because of its potential
-to accelerate climate change [(Schuur et al., 2015[^6]; Cheng et al., 2022[^1]). Permafrost thaw
+to accelerate climate change (Schuur et al., 2015[^6]; Cheng et al., 2022[^1]). Permafrost thaw
 will also have major consequences for local to regional hydrology due to changing
 subsurface flow paths and storage (Walvoord & Kurylyk 2016)[^9]. However, research on mountain
 permafrost in general has been limited, especially beyond the extent of the Tibetan
@@ -70,7 +70,7 @@ permafrost zonation. The Cryosphere 6, 221–233.](https://doi.org/10.5194/tc-6-
 [^3]:[Kim, K.Y., Haagenson, R., Kansara, P., Rajaram, H., Lakshmi, V., 2024. Augmenting
 daily MODIS LST with AIRS surface temperature retrievals to estimate ground temperature
 and permafrost extent in High Mountain Asia. Remote Sensing of Environment 305,
-114075.](https://doi.org/10.1016/j.rse.2024.114075)
+114075.](/publication/kim-augmenting-2024/)
 
 [^4]:[Obu, J., Westermann, S., Bartsch, A., Berdnikov, N., Christiansen, H.H., Dashtseren,
 A., Delaloye, R., Elberling, B., Etzelmüller, B., Kholodov, A., Khomutov, A., Kääb, A.,
