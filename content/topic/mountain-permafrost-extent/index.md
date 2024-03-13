@@ -22,7 +22,7 @@ to accelerate climate change (Schuur et al., 2015[^6]; Cheng et al., 2022[^1]). 
 will also have major consequences for local to regional hydrology due to changing
 subsurface flow paths and storage (Walvoord & Kurylyk 2016)[^9]. However, research on mountain
 permafrost in general has been limited, especially beyond the extent of the Tibetan
-Plateau, due to challenging environmental conditions at high latitudes with complex
+Plateau, due to challenging environmental conditions at high altitudes with complex
 topography. Thus, a need exists for studies that not only quantify but also characterize
 uncertainty related to mountain permafrost extent.
 
