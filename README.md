@@ -4,7 +4,7 @@ This is the GitHub page for the NASA High Mountain Asia team website.
 
 ## Contact
 
-* [Anthony Arendt](mailto:arendta@uw.edu) at the University of Washington
+* [Albert Wu](mailto:albert.wu@nasa.gov)
 
 ## Deployment
 
