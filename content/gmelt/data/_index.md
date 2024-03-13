@@ -25,7 +25,7 @@ The following tables list data products that have been produced or will soon be 
 [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/data/highmountainasia).
 
 
-## Digital Elevation Models
+## Digital Elevation/Hydrological Models
 
 |Title                                                                                                                        |Tags     |Temporal Coverage  |Geographic Coverage  |PI             | Notes/References
 |-----------------------------------------------------------------------------------------------------------------------------|---------|-------------------|---------------------|---------------|------------
@@ -35,7 +35,8 @@ The following tables list data products that have been produced or will soon be 
 |[Chamoli Disaster Pre-event 2-m DEM Composite: September 2015](https://zenodo.org/record/4554647)                            |DEM, haz |Sep 2015           |Chamoli              |Rounce (HMA-2)  |[Shean et al, 2020](/publication/shean-systematic-2020/)
 |[Chamoli Disaster Post-event 2-m DEM Composite (February 10-11, 2021) and Difference Map](https://zenodo.org/record/4558692) |DEM, haz |Feb 2021           |Chamoli              |Rounce (HMA-2)  |[Shean et al, 2020](/publication/shean-systematic-2020/)
 |[MERIT-Endorheic Dataset: Delineation of endorheic basins in 5 and 15 min upscaled river networks](https://data.msdlive.org/records/154gm-kvq48) | river network | | Global | Rounce (HMA-2) | [Prusevich et al, 2022](https://doi.org/10.57931/1904379)
-
+| River Network for parts of Afghanistan, Tajikistan, Kyrgyzstan, and Pakistan | hydro model | | Selected countries, 5 arc-min resolution | Rounce (HMA-2) | |
+| River Network for HiMAT domain | hydro model | | HMA, 5 arc-min resolution | Rounce (HMA-2) | |
 
 ## Glaciers
 
@@ -82,7 +83,8 @@ The following tables list data products that have been produced or will soon be 
 | GEOSldas analysis with snow data assimilation | forecast, snow | 2000 - 2022 |  | Girotto (HMA-2) | Estimated publication: TBD
 | GEOS S2S forecasts with snow cover assimilation | forecast, snow | 2000 - 2022 | | Girotto (HMA-2) | Estimated publication: 2023
 | Downscaled hydrometeorological projections from CMIP6 ensemble members | projection | daily | 5 km resolution | Zaitchik (HMA-2) | Estimated publication: TBD
-|
+| Land surface reanalysis for the past two decades | | 2000 - 2020, daily | 5 km resolution | Kumar, S (HMA-2) | 
+
 
 ## Precipitation
 
@@ -111,6 +113,7 @@ The following tables list data products that have been produced or will soon be 
 |-----------------------------------------------------------------|-------|------------------|--------------------|-------------|------------
 |[Near-global multi-temporal glacial lake inventory](https://nsidc.org/data/HMA_GLI/versions/1)  |lakes   |1990 to 2018    |near global  |Kargel (HMA-1) |
 | Glacial lake outlines from ~1975 Hexagon imagery | glacier, lakes | 1975 | | McCoy (HMA-2) | Estimated publication: TBD
+| Supraglacial lake maps on debris-covered glaciers | | 1985 - 2023 | Nepal, Khumbu region | McCoy (HMA-2) | 
 
 
 ## Aerosols
