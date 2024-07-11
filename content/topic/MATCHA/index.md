@@ -12,11 +12,10 @@ image:
   preview_only: true
   caption: 
   focal_point: Smart
-  
-aliases:
-- /team/Cryosphere
 
 ---
+
+__The MATCHA dataset has been published at NSIDC: [https://nsidc.org/data/hma2_matcha/versions/1](https://nsidc.org/data/hma2_matcha/versions/1)__
 
 The overarching question driving the HiMAT-2 Aerosols Subgroup is __“What are the impacts of aerosols on the cryosphere and their interactions in High Mountain Asia?”__. Within that question, we consider the following:
 - What are the relative contributions of light-absorbing particles/LAPs (black carbon, brown carbon, and dust) to atmospheric and snow-mediate radiative forcing and albedo reduction in High Mountain Asia (HMA)?
