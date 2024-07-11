@@ -121,7 +121,7 @@ The following tables list data products that have been produced or will soon be 
 |Title                                                            |Tags   |Temporal Coverage |Geographic Coverage |PI           |Notes/References
 |-----------------------------------------------------------------|-------|------------------|--------------------|-------------|------------
 |[MODIS aerosol optical depth](https://nsidc.org/data/HMA_OptDepth/versions/1) |aerosol |2000 to 2019    |HMA          |Tsay (HMA-1)          |[Jeong et al, 2018](/publication/jeong-langley-2018/)
-|[Modeled Estimates of Aerosol Transport, Chemistry, and Deposition Reanalysis (MATCHA)](https://nsidc.org/data/hma2_matcha/versions/1) | aerosol | 2003-2019, hourly | HMA, 12 km resolution | Kumar, R (HMA-2) | 
+|[Modeled Estimates of Aerosol Transport, Chemistry, and Deposition Reanalysis (MATCHA)](https://nsidc.org/data/hma2_matcha/versions/1) | aerosol | 2003-2019, hourly | HMA, 12 km resolution | Kumar, R (HMA-2) | [MATCHA](/topic/matcha/)
 
 
 
