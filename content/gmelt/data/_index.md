@@ -80,6 +80,7 @@ The following tables list data products that have been produced or will soon be 
 |[Regional Climate Model Output, 1-hourly](https://nsidc.org/data/hma_rcmo_1h/versions/1)   |temp, humid, moist, precip, wind, ocean |1999 to 2014   |HMA+        |Osmanoglu (HMA-1)
 |[GFDL SPEAR Large Ensembles](https://nsidc.org/data/HMA-2_gsle/versions/1)| temp, precip, humid, wind, model | 1921 to 2100 | Global | Shevliakova (HMA-2) | 
 | [GEOS subseasonal to seasonal forecasts from 1981-present](https://www.cpc.ncep.noaa.gov/products/NMME/) | s2s, forecast | 1981 - 2022 | | Girotto (HMA-2) | Some variables published
+| [Dynamically Downscaled Meteorological Data](https://nsidc.org/data/hma2_ddsmet/versions/1) | temp, precip | 2000 to 2016 | 4 km resolution | Rupper (HMA-2) | 
 | GEOSldas analysis with snow data assimilation | forecast, snow | 2000 - 2022 |  | Girotto (HMA-2) | Estimated publication: TBD
 | GEOS S2S forecasts with snow cover assimilation | forecast, snow | 2000 - 2022 | | Girotto (HMA-2) | Estimated publication: 2023
 | Downscaled hydrometeorological projections from CMIP6 ensemble members | projection | daily | 5 km resolution | Zaitchik (HMA-2) | Estimated publication: TBD
@@ -142,3 +143,9 @@ The following tables list data products that have been produced or will soon be 
 |-----------------------------------------------------------------|-------|------------------|--------------------|-------------|------------
 |[Langtang AWS measurements](https://nsidc.org/data/HMA_AWS/versions/1)  |temp, precip, humid, press, wind |2017 to 2018   |Langtang, NP|Tsay (HMA-1) |
 |[Langtang shortwave irradiance](https://nsidc.org/data/HMA_SDI/versions/1) |rad    |2017 to 2018   |Langtang, NP|Tsay (HMA-1)|
+
+## Permafrost
+
+|Title                                                            |Tags   |Temporal Coverage |Geographic Coverage |PI           |Notes/References
+|-----------------------------------------------------------------|-------|------------------|--------------------|-------------|------------
+|[MODIS-AIRS Gap-Filled Ground Temperatures and Permafrost Probability Maps](https://nsidc.org/data/hma2_gftp/versions/1)  |permafrost |2003 to 2016   |1 km resolution| Rajaram (HMA-2) |
